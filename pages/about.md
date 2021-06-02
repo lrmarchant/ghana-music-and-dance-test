@@ -8,7 +8,9 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+The need for a central repository of recordings, photographs, and videos has risen in recent years to secure the messages, traditions, and virtuosity of dancers, musicians, and community leaders from across Ghana. In collaboration with the Agoo-Bi Nii Cultural Arts Center, the Ghana Music and Dance Archiving Initiative is aimed at amplifying individual voices-- giving credit where credit is due and respectfully showcasing their works for students, musicians, and researchers.
+
+{% include feature/jumbotron.html objectid="uighana-007" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
