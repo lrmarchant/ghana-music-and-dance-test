@@ -14,6 +14,7 @@ The need for a central repository of recordings, photographs, and videos has ris
 {:.text-left}
 
 ## The Kpanlogo Drums
+{:.text-center}
 
 {% include feature/item-figure.html objectid="uighana-007" width="75" %}
 
